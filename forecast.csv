@@ -1,7 +1,7 @@
 race_id,race,dem_side,rep_side,pred_dem_share,note
 SEN_AK_2026,Alaska Senate,Mary Peltola,Dan Sullivan,0.51,Ranked-choice: predict the final round.
 SEN_AL_2026,Alabama Senate,Everett Wess,Barry Moore,0.4,
-SEN_AR_2026,Arkansas Senate,Hallie Shoffner,Tom Cotton,0.4,
+SEN_AR_2026,Arkansas Senate,Hallie Shoffner,Tom Cotton,0.6,
 SEN_CO_2026,Colorado Senate,John Hickenlooper,Mark Baisley,0.61,
 SEN_DE_2026,Delaware Senate,Chris Coons,Michael Katz,0.64,
 SEN_FL_2026,Florida Senate (special),Angela Nixon,Ashley Moody,0.51,
